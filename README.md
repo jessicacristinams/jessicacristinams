@@ -3,6 +3,8 @@
 
 #### Entusiasta a Data Science e Back-end, amante de cachorros e cantora nas horas vagas.
 
+![![image](https://user-images.githubusercontent.com/109877484/224119016-58d4d818-e0bf-40f7-a6f9-387def4aa919.png)]({Badge[URL](https://www.linkedin.com/in/jessica-cristina-machado-311966190/)Here})
+
 
 https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252 
 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
