@@ -1,6 +1,6 @@
 ![Jéssica Cristina](https://user-images.githubusercontent.com/109877484/224112853-75c2edc4-75fa-4b9e-a39f-18cd7ceb4377.png)
 
-
+#### Estou em migração de carreira, estudando Data Science e aluna do Bootcamp Tech MINAs @womakerscode e @portodigital
 
 
 
