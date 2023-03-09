@@ -12,7 +12,7 @@
 
 
 
-
+#### 📫 How to reach me: jcms.18@hotmail.com
 
 ![image](https://user-images.githubusercontent.com/109877484/224121894-4ac587ba-0a31-4cb3-8223-b25dc3fcd1d6.png) ![image](https://user-images.githubusercontent.com/109877484/224122387-966dd7ea-f71b-409c-9ddb-f960daf16d72.png) ![image](https://user-images.githubusercontent.com/109877484/224125335-6616ac26-adca-4c5e-90c7-3120b546d802.png) ![image](https://user-images.githubusercontent.com/109877484/224125405-b57365bf-d6aa-4c03-b0ef-f2e6c1caced8.png) ![image](https://user-images.githubusercontent.com/109877484/224125662-8ca34037-dbf2-4da7-b375-f56d0784d6d2.png) 
 
