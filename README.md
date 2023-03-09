@@ -1,10 +1,10 @@
-![Jéssica Cristina](https://user-images.githubusercontent.com/109877484/224112853-75c2edc4-75fa-4b9e-a39f-18cd7ceb4377.png)
-
-#### Estou em migração de carreira, estudando Data Science e aluna do Bootcamp Tech MINAs @womakerscode e @portodigital
+# Olá! Sou Jéssica Cristina! 👩‍💻
 
 
+#### Entusiasta a Data Science e Back-end, amante de cachorros e cantora nas horas vagas.
 
 
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
 <!--
 **jessicacristinams/jessicacristinams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
