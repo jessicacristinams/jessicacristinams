@@ -1,7 +1,7 @@
-#                                                       Hey, you can call me Jess ✨
+#                                                       👋 Hey, you can call me Jess 👩‍
 
 
-### Data Science and Back-end enthusiast, dog lover and singer in her spare time 👩‍💻
+### Data Science and Back-end enthusiast, dog lover and singer in my spare time ✨
 
 
 
