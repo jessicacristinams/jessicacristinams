@@ -3,6 +3,8 @@
 
 #### Entusiasta a Data Science e Back-end, amante de cachorros e cantora nas horas vagas.
 
+<![image](https://user-images.githubusercontent.com/109877484/224120945-8754fb9d-a2b4-4dbc-9984-91943b3d2f68.png)="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+
 <![image](https://user-images.githubusercontent.com/109877484/224119377-c13f2fb3-ac94-411e-944a-6deec30ffb79.png)="https://www.linkedin.com/in/jessica-cristina-machado-311966190"/>
 
 ![![image](https://user-images.githubusercontent.com/109877484/224119016-58d4d818-e0bf-40f7-a6f9-387def4aa919.png)]({Badge[URL](https://www.linkedin.com/in/jessica-cristina-machado-311966190/)Here})
