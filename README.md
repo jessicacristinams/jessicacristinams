@@ -1,4 +1,4 @@
-#                                                       👋 Hey there, you can call me Jess 👩‍
+#                                                       👋 Hey there, you can call me Jess !
 
 
 ### Data Science and Back-end enthusiast, dog lover and singer in my spare time ✨
