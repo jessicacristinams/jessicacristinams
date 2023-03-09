@@ -4,7 +4,9 @@
 #### Entusiasta a Data Science e Back-end, amante de cachorros e cantora nas horas vagas.
 
 
-https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252 https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252 
+https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
 <!--
 **jessicacristinams/jessicacristinams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
