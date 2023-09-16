@@ -3,7 +3,7 @@
 
 
 
-##### Ainda deifinindo o que será aqui rs...
+##### Ainda definindo o textinho daqui rs...
 
 ###### 📫 How to reach me: jessicacristina.recife@gmail.com
 
