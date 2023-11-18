@@ -12,6 +12,7 @@
 
 
 
-![image](https://github.com/jessicacristinams/jessicacristinams/assets/109877484/33989477-b353-4e40-b461-f25167eb36b5) ![image](https://github.com/jessicacristinams/jessicacristinams/assets/109877484/14303c43-9412-4d63-9ddf-661ef3b2663a)
+![image](https://github.com/jessicacristinams/jessicacristinams/assets/109877484/33989477-b353-4e40-b461-f25167eb36b5)
+![image](https://github.com/jessicacristinams/jessicacristinams/assets/109877484/14303c43-9412-4d63-9ddf-661ef3b2663a)
 
 
