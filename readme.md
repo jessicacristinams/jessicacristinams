@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> Sou estudante de ciência de dados, tenho experiência com Python e as bibliotecas Pandas, NumPy, Seaborn e Matplotlib, bem como SQL e NoSQL. Aqui eu compartilho alguns projetos e desafios que tenho desenvolvido. </p>
+<p align="center"> Estou em transição de carreira da área de engenharia para ciência de dados, sou apaixonada por cães e cantora de barzinho nas horas vagas. </p>
 
 
 <div align="center">
