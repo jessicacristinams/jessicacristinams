@@ -2,44 +2,6 @@
 <h2 align="center"> Oie, eu sou Jéssica Cristina!  </h2>
 
 
-<div align="center">
-<img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/91888bea309b4131aea16da733c9e0643312daf3638ae4457349479318b3f7d4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f3030303030302f737461722d2d76312e706e67" width="21px"/>
-</div>
-
-
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/91888bea309b4131aea16da733c9e0643312daf3638ae4457349479318b3f7d4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f3030303030302f737461722d2d76312e706e67" width="21px"/>
-</div>
-
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/91888bea309b4131aea16da733c9e0643312daf3638ae4457349479318b3f7d4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f3030303030302f737461722d2d76312e706e67" width="21px"/>
-</div>
-
-
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
-  <img src="https://camo.githubusercontent.com/91888bea309b4131aea16da733c9e0643312daf3638ae4457349479318b3f7d4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f3030303030302f737461722d2d76312e706e67" width="21px"/>
-</div>
-
-
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="21px"/>
@@ -54,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h5 aling="center">SEJA BEM-VINDx</h5>
+  <h4 aling="center">SEJA BEM-VINDx</h4>
   
 </div>  
  
@@ -67,7 +29,28 @@
 </p1>
 
 
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
 
+
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
 <h3 align="center"> 
   Ferramentas e Tecnologias
 </h3>
@@ -91,6 +74,38 @@
 <p1 aling="center"> .  </p1>
 </div>
 
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
+
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
+
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
 <div align="center">
   <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="150px"//>
   <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="125px"//>
