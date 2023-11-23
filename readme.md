@@ -2,7 +2,7 @@
 <h2 align="center"> Oie, eu sou Jéssica Cristina! ✨ </h2>
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="10px"/>
+<img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="30px"/>
 </div>
 
 <h6 align="center"> 
