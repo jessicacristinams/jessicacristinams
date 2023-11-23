@@ -40,15 +40,17 @@
 <img src="https://camo.githubusercontent.com/2647069272b59f9d1b052ed2008730ad9c83514b5fd80bafde9e3385173cdebe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73716c6974652f73716c6974652d6f726967696e616c2e737667" width="50px"/>
 </div>
 
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
-<p1 aling="center"> .  </p1>
 
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
 
 <div align="center">
   <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="150px"//>
