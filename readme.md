@@ -12,7 +12,7 @@
   Ferramentas e Tecnologias
 </h3>
 
-https://iconmonstr.com/github-1-svg/
+
 
 <div align="center">
   <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="353"/>
