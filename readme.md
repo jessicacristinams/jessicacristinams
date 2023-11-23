@@ -1,5 +1,5 @@
 
-<h2 align="center"> Oie, eu sou Jéssica Cristina!  </h2>
+<h2 align="center"> Hey, I'm Jessica Cristina!  </h2>
 
 
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h4 aling="center">SEJA BEM-VINDx</h4>
+  <h4 aling="center">WELCOME TO MY GITHUB PROFILE</h4>
   
 </div>  
  
@@ -25,7 +25,9 @@
 
 
 <p1 align="center"> 
-  Estou em transição de carreira de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo (:
+  Estou em transição de carreira de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo. (:
+
+  I'm transitioning my career from electrical engineering to data science, I'm a dog lover and a singer in my spare time. Here I share some of the challenges and projects I've been working on. Feel free to get in touch with me. (:
 </p1>
 
 
