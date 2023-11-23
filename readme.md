@@ -3,12 +3,12 @@
 
 
 
-<h6 align="center"> 
+<p1 align="center"> 
   Estou em transição de carreira da área de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora de barzinho nas horas vagas. 
-</h6>
-<h6 align="center"> 
+</p1>
+<p1 align="center"> 
   Aqui eu compartilho alguns desafios e projetos que tenho trabalhado.
-</h6>
+</p1>
 
 
 <div align="center">
