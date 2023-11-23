@@ -54,7 +54,7 @@
 <p1 aling="center"> .  </p1>
 </div>
 <h3 align="center"> 
-  Ferramentas e Tecnologias
+  Skills and Tools
 </h3>
 
 <div align="center">
