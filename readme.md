@@ -12,6 +12,10 @@
 </div>  
  
 
+<div align="center">
+<img src="https://camo.githubusercontent.com/a262d2f95fb54ab09d51fd5e42495db1ed38a6a16c767c5d945efffead279ed6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f6d6f6c6f6c657679266c6162656c3d50726f66696c65253230766965776572733a26636f6c6f723d464537413136267374796c653d666f722d7468652d6261646765" width="170px"/>
+</div>
+
 
 <h6 align="center"> 
   Estou em transição de carreira de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo (:
