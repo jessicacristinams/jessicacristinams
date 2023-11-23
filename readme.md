@@ -23,15 +23,6 @@
 
 
 
-<div align="center">
-  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="200px"//>
-  <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="200px"//>
-</div>
-
-
-
-
-
 <h3 align="center"> 
   Ferramentas e Tecnologias
 </h3>
@@ -42,6 +33,12 @@
 <img src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" width="50px"/>
 <img src="https://camo.githubusercontent.com/2647069272b59f9d1b052ed2008730ad9c83514b5fd80bafde9e3385173cdebe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73716c6974652f73716c6974652d6f726967696e616c2e737667" width="50px"/>
 <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="50px"/>
+</div>
+
+
+<div align="center">
+  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="200px"//>
+  <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="1700px"//>
 </div>
 
 
