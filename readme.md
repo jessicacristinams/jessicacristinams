@@ -3,8 +3,7 @@
 
 
 
-<p align="center"> Estou em transição de carreira da área de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora de barzinho nas horas vagas. </p>
-<p align="center">  Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. </p>
+<div align="center"> Estou em transição de carreira da área de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora de barzinho nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado.</div>
 
 
 <div align="center">
