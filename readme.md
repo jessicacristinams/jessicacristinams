@@ -3,12 +3,10 @@
 
 <div align="center">
   <h6 aling="center">Seja bem-vindx ao meu perfil!</h6>
+  <img src="https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f33302f3030303030302f737461722e706e67" width="200px"/>
 
-  <img src= https://camo.githubusercontent.com/bc5f3be4f245950cb1dd7f09b268927d6c3ff5b9c6b2efbcdac825bf965346db
 </div>  
  
-<div align="center">  /68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f6d6f6c6f6c657679266c6162656c3d50726f66696c65253230766965776572733a26636f6c6f723d464537413136267374796c653d666f722d7468652d6261646765"  width="180px"/>
-</div>
 
 
 <h6 align="center"> 
