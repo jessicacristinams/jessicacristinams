@@ -34,5 +34,5 @@
 
 
 
-
+![Snake animation](https://github.com/jessicacristinams/jessicacristinams/blob/output/github-contribution-grid-snake.svg)
 
