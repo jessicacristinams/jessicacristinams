@@ -3,10 +3,10 @@
 
 
 
-<p1 align="center"> 
+<div align="center"> 
   Estou em transição de carreira da área de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora de barzinho nas horas vagas. 
   Aqui eu compartilho alguns desafios e projetos que tenho trabalhado.
-</p1>
+</div>
 
 
 <div align="center">
@@ -15,14 +15,10 @@
 
 
 <h2 align="center"> 
-  #### Habilidades
+  Habilidades
 </h2>
 
 
-<div align="center">
-  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/1a0e7d2a-f74b-44d1-8fe3-3d5355e31f6e />
-  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/5b5b31f0-8eb5-4267-b679-6961b858801c />
-</div>
 
 
 
