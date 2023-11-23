@@ -16,8 +16,7 @@
 
 
 <div align="center">
-  <img src=  ![224129810-56e2dd6c-96dc-4abc-9027-ce9dec800e2d](https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786)
-  />
+  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 />
 </div>
 
 
