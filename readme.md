@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="200px"//>
-  <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="1700px"//>
+  <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="170px"//>
 </div>
 
 
