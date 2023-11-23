@@ -8,8 +8,8 @@
 
 
 <div align="center">
-  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/1a0e7d2a-f74b-44d1-8fe3-3d5355e31f6e.gif width="353"/>
-  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/5b5b31f0-8eb5-4267-b679-6961b858801c.gif width = "400" />
+  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/1a0e7d2a-f74b-44d1-8fe3-3d5355e31f6e.gif width="250"/>
+  <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/5b5b31f0-8eb5-4267-b679-6961b858801c.gif width = "353"/>
 </div>
 
 
