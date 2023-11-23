@@ -1,14 +1,14 @@
 
-<h1 align="center"> Oie, eu sou Jéssica Cristina! ✨ </h1>
+<h2 align="center"> Oie, eu sou Jéssica Cristina! ✨ </h2>
 
 
 
-<div align="center"> 
+<h6 align="center"> 
   Estou em transição de carreira da área de engenharia elétrica para ciência de dados,
-</div>
-<div align="center">
+</h6>
+<h6 align="center">
   sou apaixonada por cães e cantora de barzinho nas horas vagas. 
-</div>
+</h6>
 <div align="center"> 
   Aqui eu compartilho alguns desafios e projetos que tenho trabalhado.
 </div>
@@ -19,9 +19,9 @@
 </div>
 
 
-<h2 align="center"> 
+<h3 align="center"> 
   Ferramentas e Tecnologias
-</h2>
+</h3>
 
 
 
