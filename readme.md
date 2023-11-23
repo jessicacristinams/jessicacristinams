@@ -4,7 +4,7 @@
 
 
 <h6 align="center"> 
-  Estou em transição de carreira de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado.
+  Estou em transição de carreira de engenharia elétrica para ciência de dados, sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo (:
 </h6>
 
 
