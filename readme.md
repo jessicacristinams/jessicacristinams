@@ -127,6 +127,58 @@
 
 
 
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
+
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
+
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
+
+<div align="center">
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+<p1 aling="center"> .  </p1>
+</div>
+
+<div align="center">
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/8ecf5004-fdbb-4b06-844b-dcd4fb8a233c width="353" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/f8a5b5f9-08ae-4cd1-bed3-dd2c3ce4c49b width="250" />
+</div>
+
+
+
+
 
 
 
