@@ -172,8 +172,8 @@
 </div>
 
 <div align="center">
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/8ecf5004-fdbb-4b06-844b-dcd4fb8a233c width="353" />
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/f8a5b5f9-08ae-4cd1-bed3-dd2c3ce4c49b width="250" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/bca46c11-8514-4b22-a11c-a02052ac17d4 width="150px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/938f05ec-df10-4f7f-8294-a72875f81dd7 width="250px" />
 </div>
 
 
