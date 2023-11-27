@@ -172,7 +172,7 @@
 </div>
 
 <div align="center">
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/bca46c11-8514-4b22-a11c-a02052ac17d4 width="300px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/bca46c11-8514-4b22-a11c-a02052ac17d4 width="320px" />
 <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/938f05ec-df10-4f7f-8294-a72875f81dd7 width="350px" />
 </div>
 
