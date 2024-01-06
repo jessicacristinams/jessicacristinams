@@ -28,11 +28,18 @@
 </div>
 
 
+### <br> Projects
+<br>
+Link dos últimos projetos desenvolvidos:
 
+📝 [Projeto Final - {reprograma} - Urbanização](https://github.com/jessicacristinams/urbanizacao)
+📝 [Projeto Final - WoMakersCode - Setor Aéreo](https://github.com/jessicacristinams/BootcampTECHMINAs/blob/main/desafios/Desafio_Final_Setor_Aereo_Sarah_Gilbert_Tech_Minas.ipynb)
+
+<br>
 
 
 ### <br> ...
-
+<br>
 <div align="center">
   <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="150px"//>
   <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="125px"//>
