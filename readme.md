@@ -46,19 +46,19 @@
 
 ### <br> 👩🏾‍💻 Projects
 <br>
-<br>
+
 <div align="center">
-  <br>
-  Link dos últimos projetos desenvolvidos:
   
+  ##### <br> Link dos últimos projetos desenvolvidos:
+  <br>
   
   📝 [Projeto Final - {reprograma} - Urbanização](https://github.com/jessicacristinams/urbanizacao)
   
   📝 [Projeto Final - WoMakersCode - Setor Aéreo](https://github.com/jessicacristinams/BootcampTECHMINAs/blob/main/desafios/Desafio_Final_Setor_Aereo_Sarah_Gilbert_Tech_Minas.ipynb)
   
-  <br>
+  
 </div>
-<br>
+
 
 
 ### <br> ...
