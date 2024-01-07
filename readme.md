@@ -8,12 +8,11 @@
 </p>
 
 
-<div align="center">
+
+### <br> 🙋🏾‍♀ WELCOME TO MY GITHUB PROFILE! 
+<br>
   
-  ### <br> 🙋🏾‍♀ WELCOME TO MY GITHUB PROFILE! 
-  <br>
-  
-</div>
+
 
 <br>
 <p1 align="center"> 
@@ -26,12 +25,12 @@
 </p1>
 <br>
 
-<div align="center">
+
   
-  ### <br> 💻 Skills and Tools
-  <br>
+### <br> 💻 Skills and Tools
+<br>
   
-</div>
+
 
 
 <div align="center">
@@ -51,12 +50,12 @@
 <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/938f05ec-df10-4f7f-8294-a72875f81dd7 width="330px" />
 </div>
 
-<div align="center">
+
   
-  ### <br> 👩🏾‍💻 Projects
-  <br>
+### <br> 👩🏾‍💻 Projects
+<br>
   
-</div>  
+
 
 <div align="center">
   
