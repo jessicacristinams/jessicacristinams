@@ -24,8 +24,9 @@
   I'm transitioning my career from electrical engineering to technology, studying systems development and data science. I have command of SQL and Python languages ​​with the Django framework, skills with Pandas, Numpy, Matplotlib, Seaborn libraries, applied to data visualization (Tableau). I'm a dog lover and i'm a singer in my spare time. Here I share some challenges and projects that I have been working on. Feel free to contact me. (:
 </p1>
 <br>
-
-
+<br>
+<p1 align="center"> [Linkedin](https://www.linkedin.com/in/jessica-cristina-machado/) </p1>
+<br>
   
 ### <br> 💻 Skills and Tools
 <br>
