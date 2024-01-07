@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  [<img src = "https://github.com/jessicacristinams/jessicacristinams/assets/109877484/abe5e3d5-f238-48a0-a0ce-38ef73032f25"width="70px"/>](https://www.linkedin.com/in/jessica-cristina-machado/)
+  [Meu Linkedin](https://www.linkedin.com/in/jessica-cristina-machado/)
   
 </div>
 <br>
