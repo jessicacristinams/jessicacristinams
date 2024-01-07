@@ -47,8 +47,10 @@
 ### <br> 👩🏾‍💻 Projects
 <br>
 <br>
+<p1 align="center"> 
+
 Link dos últimos projetos desenvolvidos:
-<br>
+
 
 
 
@@ -58,7 +60,8 @@ Link dos últimos projetos desenvolvidos:
 
 📝 [Projeto Final - WoMakersCode - Setor Aéreo](https://github.com/jessicacristinams/BootcampTECHMINAs/blob/main/desafios/Desafio_Final_Setor_Aereo_Sarah_Gilbert_Tech_Minas.ipynb)
 
-
+</p1>
+<br>
 
 
 ### <br> ...
