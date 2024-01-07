@@ -25,7 +25,9 @@
 </p1>
 <br>
 <br>
-<p1 align="center"> [Linkedin](https://www.linkedin.com/in/jessica-cristina-machado/) </p1>
+<p1 align="center">
+  [Meu linkedin](https://www.linkedin.com/in/jessica-cristina-machado/)
+</p1>
 <br>
   
 ### <br> 💻 Skills and Tools
