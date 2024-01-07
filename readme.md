@@ -8,9 +8,11 @@
 </p>
 
 
+<div align="center">
+  ### <br> 🙋🏾‍♀ WELCOME TO MY GITHUB PROFILE! 
+  <br>
+</div>
 
-### <br> 🙋🏾‍♀ WELCOME TO MY GITHUB PROFILE! 
-<br>
 <br>
 <p1 align="center"> 
   Estou em transição de carreira de engenharia elétrica para tecnologia, estudando desenvolvimento de sistemas e ciência de dados. Tenho domínio das liguagens SQL e Python com framework Django, habilidades com as bibliotecas Pandas, Numpy, Matplotlib, Seaborn, aplicado para visualização de dados (Tableau). Sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo. (:
@@ -22,9 +24,11 @@
 </p1>
 <br>
 
+<div align="center">
+  ### <br> 💻 Skills and Tools
+  <br>
+</div>
 
-### <br> 💻 Skills and Tools
-<br>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="68px"/>
@@ -43,9 +47,10 @@
 <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/938f05ec-df10-4f7f-8294-a72875f81dd7 width="330px" />
 </div>
 
-
-### <br> 👩🏾‍💻 Projects
-<br>
+<div align="center">
+  ### <br> 👩🏾‍💻 Projects
+  <br>
+</div>  
 
 <div align="center">
   
