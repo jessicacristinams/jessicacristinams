@@ -28,6 +28,7 @@
 <br>
 
 <div align="center">
+  
   [Meu linkedin](https://www.linkedin.com/in/jessica-cristina-machado/)
   
 </div>
