@@ -28,8 +28,7 @@
 <br>
 
 <div align="center">
-  
-  [Meu linkedin](https://www.linkedin.com/in/jessica-cristina-machado/)
+[<img src = "https://github.com/jessicacristinams/jessicacristinams/assets/109877484/abe5e3d5-f238-48a0-a0ce-38ef73032f25"](https://www.linkedin.com/in/jessica-cristina-machado/)
   
 </div>
 <br>
