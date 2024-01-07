@@ -1,7 +1,7 @@
 <h1 align="center">
 
 
-<p align="center"><b> Hey, I'm Jéssica Cristina </b> 🌝 <p>
+<p align="center"><b> Hey, I'm Jéssica Cristina </b> 😄 <p>
   
 <p align="center">
 <img src= "https://github.com/jessicacristinams/jessicacristinams/assets/109877484/3583e97e-2f1b-4893-b600-409045788f4f" width="100px"/>
@@ -20,12 +20,12 @@
 <br>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="68px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="68px"/>
 </div>     
           
           
