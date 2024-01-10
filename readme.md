@@ -53,8 +53,8 @@
           
 
 <div align="center">
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/bca46c11-8514-4b22-a11c-a02052ac17d4 width="320px" />
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/938f05ec-df10-4f7f-8294-a72875f81dd7 width="330px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b0e70f71-d4fa-4f00-ae4a-9f73de124b9c width="320px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/f8718e24-55d3-4565-bdc9-ff279145cdd7 width="330px" />
 </div>
 
 
