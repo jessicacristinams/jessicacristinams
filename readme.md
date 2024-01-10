@@ -54,7 +54,7 @@
 
 <div align="center">
 <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b0e70f71-d4fa-4f00-ae4a-9f73de124b9c width="320px" />
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/f8718e24-55d3-4565-bdc9-ff279145cdd7 width="295px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/f8718e24-55d3-4565-bdc9-ff279145cdd7 width="290px" />
 </div>
 
 
