@@ -16,12 +16,12 @@
 
 <br>
 <p1 align="center"> 
-  Estou em transição de carreira de engenharia elétrica para tecnologia, estudando desenvolvimento de sistemas e ciência de dados. Tenho domínio das liguagens SQL e Python com framework Django, habilidades com as bibliotecas Pandas, Numpy, Matplotlib, Seaborn, aplicado para visualização de dados (Tableau). Sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo. (:
+  Estou em transição de carreira de engenharia elétrica para tecnologia, estudando desenvolvimento de sistemas e ciência de dados. Tenho domínio das liguagens SQL e Python das bibliotecas Pandas, Numpy, Matplotlib, Seaborn, aplicado para visualização de dados (Tableau). Sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo. (:
 </p1>
 <br>
 <br>
 <p1 align="center">
-  I'm transitioning my career from electrical engineering to technology, studying systems development and data science. I have command of SQL and Python languages ​​with the Django framework, skills with Pandas, Numpy, Matplotlib, Seaborn libraries, applied to data visualization (Tableau). I'm a dog lover and i'm a singer in my spare time. Here I share some challenges and projects that I have been working on. Feel free to contact me. (:
+  I'm transitioning my career from electrical engineering to technology, studying systems development and data science. I have command of SQL and Python languages, skills with Pandas, Numpy, Matplotlib, Seaborn libraries, applied to data visualization (Tableau). I'm a dog lover and i'm a singer in my spare time. Here I share some challenges and projects that I have been working on. Feel free to contact me. (:
 </p1>
 <br>
 
@@ -43,7 +43,6 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="68px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="55px"/>
