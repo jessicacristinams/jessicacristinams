@@ -52,8 +52,8 @@
           
 
 <div align="center">
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/c395a2af-94ee-4efd-8b16-469616cebfcc width="320px" />
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/9eb30191-7904-4eee-94e2-a0d0aab133b3 width="290px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/d7567d96-9a0d-49db-a22e-7c6deea36f50 width="320px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/cd83e1d0-5f76-48fe-96d8-7a78d6439e0d width="290px" />
 </div>
 
 
@@ -77,8 +77,11 @@
 
 
 
-<br><br><br>
 <br>
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/b9e567ae-9d38-43d6-94d0-9909f997c786 width="150px"//>
   <img src=https://media4.giphy.com/media/tqfS3mgQU28ko/200.webp?cid=ecf05e47jp2btft5mymo1f0e5ct5d4k2qejbcxezvn38rqeb&ep=v1_gifs_search&rid=200.webp&ct=g width="125px"//>
