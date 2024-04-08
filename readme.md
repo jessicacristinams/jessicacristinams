@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/71ab83fb-c22a-4dc6-8e54-1ddd32ad02dd width="260px" />
+<img src=https://github.com/jessicacristinams/jessicacristinams/assets/109877484/71ab83fb-c22a-4dc6-8e54-1ddd32ad02dd width="300px" />
 </div>
 
 
