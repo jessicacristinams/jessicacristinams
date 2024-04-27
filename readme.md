@@ -68,6 +68,8 @@
   
   #### <br> Link dos últimos projetos desenvolvidos:
   <br>
+
+  📝 [1º Projeto Programa Desesenvolve - Grupo O Boticário](https://github.com/jessicacristinams/1Projeto_Desenvolve_OBoticario)
   
   📝 [Projeto Final - {reprograma} - Urbanização](https://github.com/jessicacristinams/urbanizacao)
   
