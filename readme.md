@@ -69,7 +69,7 @@
   #### <br> Últimos projetos desenvolvidos:
   <br>
 
-  📝 [1º Projeto - Desesenvolve O Boticário - Modelagem de Dados](https://github.com/jessicacristinams/1Projeto_Desenvolve_OBoticario)
+  📝 [1º Projeto - Desenvolve O Boticário - Modelagem de Dados](https://github.com/jessicacristinams/1Projeto_Desenvolve_OBoticario)
   
   📝 [Projeto Final - {reprograma} - Urbanização](https://github.com/jessicacristinams/urbanizacao)
   
@@ -84,9 +84,9 @@
   #### <br> Projetos em andamento:
   <br>
 
-  📝 [3º Projeto - Desesenvolve O Boticário - Análise de Dados com BigQuery e Looker e Storytelling](https://github.com/jessicacristinams/3Projeto_Desenvolve_OBoticario)
+  📝 [3º Projeto - Desenvolve O Boticário - Análise de Dados com BigQuery e Looker e Storytelling](https://github.com/jessicacristinams/3Projeto_Desenvolve_OBoticario)
   
-  📝 [2º Projeto - Desesenvolve O Boticário - Análise de Dados e Predição com Python e Pandas](https://github.com/jessicacristinams/2Projeto_Desenvolve_OBoticario)
+  📝 [2º Projeto - Desenvolve O Boticário - Análise de Dados e Predição com Python e Pandas](https://github.com/jessicacristinams/2Projeto_Desenvolve_OBoticario)
   
   
   
