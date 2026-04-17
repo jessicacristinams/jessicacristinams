@@ -69,11 +69,11 @@
   #### <br> Últimos projetos desenvolvidos:
   <br>
 
-  📝 [1º Projeto - Desenvolve O Boticário - Modelagem de Dados](https://github.com/jessicacristinams/1Projeto_Desenvolve_OBoticario)
+  📝 []
   
-  📝 [Projeto Final - {reprograma} - Urbanização](https://github.com/jessicacristinams/urbanizacao)
+  📝 []
   
-  📝 [Projeto Final - WoMakersCode - Setor Aéreo](https://github.com/jessicacristinams/BootcampTECHMINAs/blob/main/desafios/Desafio_Final_Setor_Aereo_Sarah_Gilbert_Tech_Minas.ipynb)
+  📝 []
   
 <br>
 <br>
@@ -84,9 +84,9 @@
   #### <br> Projetos em andamento:
   <br>
 
-  📝 [3º Projeto - Desenvolve O Boticário - Análise de Dados com BigQuery e Looker e Storytelling](https://github.com/jessicacristinams/3Projeto_Desenvolve_OBoticario)
+  📝 []
   
-  📝 [2º Projeto - Desenvolve O Boticário - Análise de Dados e Predição com Python e Pandas](https://github.com/jessicacristinams/2Projeto_Desenvolve_OBoticario)
+  📝 []
   
   
   
