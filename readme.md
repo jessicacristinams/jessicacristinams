@@ -19,20 +19,27 @@
   🎓 Formação & Acadêmico
   
 Mestranda em Engenharia da Computação | UPE
+
 Licencianda em Computação | UFRPE
+
 Cientista de Dados
 
   🧠 Áreas de Interesse
 
 Data Science & Computational Intelligence
+
 Product Analytics & BI
+
 Project Management
 
   🌊 Fora do Código
 
 Bodyboarding 🏄‍♀️
+
 Dog lover 🐾
+
 Cantora nas horas vagas 🎤
+
 </p1>
 <br>
 <br>
