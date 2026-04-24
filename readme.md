@@ -16,13 +16,27 @@
 
 <br>
 <p1 align="center"> 
-  Tenho domínio das liguagens SQL e Python das bibliotecas Pandas, Numpy, Matplotlib, Seaborn, aplicado para visualização de dados (Tableau, Power BI e Looker Studio). Sou apaixonada por cães e cantora nas horas vagas. Aqui eu compartilho alguns desafios e projetos que tenho trabalhado. Sinta-se a vontade para entrar em contato comigo. (:
+  🎓 Formação & Acadêmico
+  
+Mestranda em Engenharia da Computação | UPE
+Licencianda em Computação | UFRPE
+Cientista de Dados
+
+  🧠 Áreas de Interesse
+
+Data Science & Computational Intelligence
+Product Analytics & BI
+Project Management
+
+  🌊 Fora do Código
+
+Bodyboarding 🏄‍♀️
+Dog lover 🐾
+Cantora nas horas vagas 🎤
 </p1>
 <br>
 <br>
-<p1 align="center">
-  I have command of SQL and Python languages, skills with Pandas, Numpy, Matplotlib, Seaborn libraries, applied to data visualization (Tableau, Power BI and Looker Studio). I'm a dog lover and i'm a singer in my spare time. Here I share some challenges and projects that I have been working on. Feel free to contact me. (:
-</p1>
+
 <br>
 
 <br>
@@ -30,6 +44,7 @@
 <div align="center">
   
   [Meu Linkedin](https://www.linkedin.com/in/jessica-cristina-machado/)
+  [Currículo Lattes](https://lattes.cnpq.br/6147788738507368)
   
 </div>
 <br>
