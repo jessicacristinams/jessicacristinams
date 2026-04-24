@@ -16,37 +16,13 @@
 
 <br>
 <p1 align="center"> 
-  
-  🎓 Formação & Acadêmico
 
   
-Mestranda em Engenharia da Computação | UPE
+M.Sc. Candidate in Computer Engineering | UPE
 
-Licencianda em Computação | UFRPE
+B.Ed. Student in Computer Science | UFRPE
 
-Cientista de Dados
-
-
-
-  🧠 Áreas de Interesse
-  
-
-Data Science & Computational Intelligence
-
-Product Analytics & BI
-
-Project Management
-
-
-
-  🌊 Fora do Código
-
-
-Bodyboarding 🏄‍♀️
-
-Dog lover 🐾
-
-Cantora nas horas vagas 🎤
+Data Scientist
 
 </p1>
 <br>
