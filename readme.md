@@ -17,23 +17,24 @@
 <br>
 <p1 align="center"> 
   🎓 Formação & Acadêmico
+  <br>
   
 Mestranda em Engenharia da Computação | UPE
 
 Licencianda em Computação | UFRPE
 
 Cientista de Dados
-
+<br>
   🧠 Áreas de Interesse
-
+<br>
 Data Science & Computational Intelligence
 
 Product Analytics & BI
 
 Project Management
-
+<br>
   🌊 Fora do Código
-
+<br>
 Bodyboarding 🏄‍♀️
 
 Dog lover 🐾
@@ -41,11 +42,6 @@ Dog lover 🐾
 Cantora nas horas vagas 🎤
 
 </p1>
-<br>
-<br>
-
-<br>
-
 <br>
 
 <div align="center">
